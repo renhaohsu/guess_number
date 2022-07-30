@@ -53,6 +53,12 @@ h3{
     outline: none;
     box-shadow: 0px 0px 500px 500px rgba(214, 219, 136, 0.103);
 }
+
+@media (min-width: 320px), screen and (orientation: portrait) { 
+    font-size: 14px;
+}
+
+
 .btn {
     position:relative;
     background-color: transparent;
