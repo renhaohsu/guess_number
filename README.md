@@ -1,7 +1,7 @@
 # guess_number
  classic guess number game
 
-https://zesterisk.github.io/guess_number/
+https://qestiorisk.github.io/guess_number/
 
 ## 假裝很像是什麼解謎遊戲一樣
 
